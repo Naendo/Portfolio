@@ -20,16 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a16f02-7711-443f-b1ea-8e88f56010fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio.view/src/assets/styles/scss/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio.view/src/components/about.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio.view/src/components/home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio.view/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio.view/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.view/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio.view/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.view/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.view/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.view/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio.view/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.view/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.view/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.view/src/components/helloworld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.view/src/components/helloworld.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio.view/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.view/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +40,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="SCSS File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -60,13 +61,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio.view/src/assets/styles" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio.view/src/components" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
@@ -75,6 +79,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Portfolio\portfolio.view\src\components" />
       <recent name="D:\Portfolio\portfolio.view\src\assets\styles" />
     </key>
   </component>
@@ -86,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600779440324</updated>
-      <workItem from="1600779442792" duration="5434000" />
+      <workItem from="1600779442792" duration="9214000" />
     </task>
     <servers />
   </component>
@@ -108,6 +113,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1147" y="591" key="#ESLint" timestamp="1600785568762">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1147" y="591" key="#ESLint/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1600785568762" />
     <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1600779539067">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -140,9 +149,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="987" y="281" width="585" height="837" key="find.popup/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1600784696929" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1600779873414">
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1600786668864">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1600779873414" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1600786668864" />
   </component>
 </project>
